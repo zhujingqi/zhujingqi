@@ -7,4 +7,4 @@
 * 🔭 I’m currently working on my website and JackyOS
 ### Contact
 * 📫 How to reach me: jacky@zhujingqi.com
-* 🌐 My website: zhujingqi.com
+* 🌐 My website: https://zhujingqi.com
